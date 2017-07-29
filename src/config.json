@@ -1,0 +1,115 @@
+{
+  "landing":{
+    "isActive":true,
+    "name": "Jhon Doe",
+    "experience": "Developer | Musician" 
+  },
+  "intro":{
+    "isActive":true,
+    "title": "Hello World! 👋",
+    "contnent": "<p>Muy lejos, más allá de las montañas de palabras, alejados de los países de las vocales y las consonantes, viven los textos simulados. Viven aislados en casas de letras, en la costa de la semántica, un gran océano de lenguas. Un riachuelo llamado Pons fluye por su pueblo y los.</p><p>Y, viéndole don Quijote de aquella manera, con muestras de tanta tristeza, le dijo: Sábete, Sancho, que no es un hombre más que otro si no hace más que otro. Todas estas borrascas que nos suceden son señales de que presto ha de serenar el tiempo y han de sucedernos</p>"
+  },
+  "projects":{
+    "isActive":true,
+    "title": "Projects",
+    "cards":[
+      {
+        "title": "Example project #1",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo.", 
+        "link": "https://example.com",
+        "linkName": "View on Example"
+      },
+      {
+        "title": "Example project #2",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo.", 
+        "link": "https://example.com",
+        "linkName": "View on Example"
+      },
+      {
+        "title": "Example project #3",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo.", 
+        "link": "https://example.com",
+        "linkName": "View on Example"
+      },
+      {
+        "title": "Example project #4",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo.", 
+        "link": "https://example.com",
+        "linkName": "View on Example"
+      }
+    ]
+  },
+  "talks":{
+    "isActive":true,
+    "title": "Talks / Blogs",
+    "talks":[
+      {
+        "link":"https://example.com/",
+        "name":"Quiere la boca exhausta vid, kiwi, piña y fugaz jamón.",
+        "source":"Github"
+      },
+      {
+        "link":"https://example.com/",
+        "name":"Una mañana, tras un sueño intranquilo, Gregorio Samsa se despertó.",
+        "source":"Github"
+      },
+      {
+        "link":"https://example.com/",
+        "name":"Reina en mi espíritu una alegría admirable, muy parecida a.",
+        "source":"Github"
+      },
+      {
+        "link":"https://example.com/",
+        "name":"Y, viéndole don Quijote de aquella manera, con muestras de.",
+        "source":"Github"
+      }
+
+    ]
+  },
+  "workshops":{
+    "isActive":true,
+    "title": "Workshops",
+    "cards":[
+      {
+        "title":"Example Work #1",
+        "description":"Muy lejos, más allá de las montañas de palabras, alejados.",
+        "link":"https://example.com",
+        "linkName":"View on Example"
+      },
+      {
+        "title":"Example Work #2",
+        "description":"Muy lejos, más allá de las montañas de palabras, alejados.",
+        "link":"https://example.com",
+        "linkName":"View on Example"
+      },
+      {
+        "title":"Example Work #3",
+        "description":"Muy lejos, más allá de las montañas de palabras, alejados.",
+        "link":"https://example.com",
+        "linkName":"View on Example"
+      },
+      {
+        "title":"Example Work #4",
+        "description":"Muy lejos, más allá de las montañas de palabras, alejados.",
+        "link":"https://example.com",
+        "linkName":"View on Example"
+      }
+    ]
+  },
+  "contact":{
+    "isActive":true,
+    "title": "Contact",
+    "email": "demo@gmail.com",
+    "labelName": "What does your mother call you?",
+    "placeholderName":"John Jacob Jingleheimer Schmidt",
+    "labelEmail":"What is your online penpal address?",
+    "placeholderEmail":"beetlejuice@saythreetimes.com",
+    "labelMessage":"Have anything you want to get off your chest?",
+    "placeholderMessage":"You are awesome!",
+    "thanksUrl":"//yourwebsite.com/thanks.html",
+    "submitBtn":"Send"
+  },
+  "footer":{
+    "content": "This site was made with OSS tools: Styles - <a href='http://usewing.ml/' target='_blank'>Wing CSS</a> | Smooth Scrolling - <a href='http://callmecavs.com/jump.js/' target='_blank'>Jump.js</a> | Animations - <a href='https://daneden.github.io/animate.css/' target='_blank'>Animate.css</a> |  Form - <a href='https://formspree.io/' target='_blank'>Formspree</a> | And Moon <a href='https://github.com/KingPixil/moon' target='_blank'>Moonjs</a>"
+  }
+}
