@@ -1,4 +1,9 @@
-# WebpackBin project
+# Moon Simple Portfolio
+
+Based on [simple-portfolio](https://github.com/arecvlohe/simple-portfolio) of [Adam Recvlohe](https://github.com/arecvlohe)
+
+It's verty simply, rewrite config.json with your data and voila!.
+
 
 ## Start
 
@@ -8,15 +13,17 @@
 
 Go to `localhost:3000`
 
+
+
 ## Build
 
 `npm run build`
 
-## Extra 
+## Icons  
 
-Use [Gravit Designer](https://www.designer.io) for icons.
+Use [Gravit Designer](https://www.designer.io) for icons (You have a demo in favicons folder).
 
-Favicon Generator [Here](http://www.favicon-generator.org)
+Export to png and use Favicon Generator [Here](http://www.favicon-generator.org) 
 
 **Note:** if you replace manifest.json and browserconfig.xml be sure to replace first slash in src.
 

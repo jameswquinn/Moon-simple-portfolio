@@ -1,7 +1,7 @@
 {
-  "name": "webpackbin-project",
+  "name": "Moon-simple-portfolio",
   "version": "1.0.0",
-  "description": "Project boilerplate",
+  "description": "Based on Simple portfolio of arecvlohe",
   "scripts": {
     "start": "webpack-dev-server --content-base build/ --port 3000",
     "build": "webpack --colors --verbose --optimize-minimize"
@@ -23,6 +23,6 @@
     "webpack": "^2.2.0",
     "webpack-dev-server": "2.3.0"
   },
-  "author": "WebpackBin",
+  "author": "Moncho Varela/@nakome",
   "license": "ISC"
 }
